@@ -603,7 +603,7 @@ https://milista.nico-canelas.workers.dev/https://edge-mix02-mun.cvattv.com.ar/to
 
 #EXTINF:-1 tvg-id="TyC Sports.ar" group-title="Deportes" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports Sensa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?keyid=53d0cf6c1d49c16f5180f86e1870b00f&key=7eb6743b5f44b52ba27c88229c8c7ae2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
 https://lilac01.pontiscloud.com/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
